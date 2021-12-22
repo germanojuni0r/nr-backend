@@ -10,7 +10,7 @@ $ npm install
 
 ## Running the app
 
-1- In a MySQL Database, create a 'nasarobot' schema. \n
+1- In a MySQL Database, create a 'nasarobot' schema. <br />
 2- Config the .env file to you database credentials.
 
 ```bash
